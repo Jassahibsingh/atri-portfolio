@@ -1,0 +1,104 @@
+{
+  "port.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "1.png": {
+    "mime": "image/png"
+  },
+  "1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow_forward_FILL0_wght400_GRAD0_opsz20.svg": {
+    "mime": "image/svg+xml"
+  },
+  "c1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "c2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "c3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "c4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "c5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "left.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right chevron.svg": {
+    "mime": "image/svg+xml"
+  },
+  "P1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "P2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "P3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "P4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "north_east_FILL0_wght400_GRAD0_opsz24.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rocket.svg": {
+    "mime": "image/svg+xml"
+  },
+  "music.svg": {
+    "mime": "image/svg+xml"
+  },
+  "crown.svg": {
+    "mime": "image/svg+xml"
+  },
+  "PP1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "PP2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "appos.svg": {
+    "mime": "image/svg+xml"
+  },
+  "chevron_left_white_24dp.svg": {
+    "mime": "image/svg+xml"
+  },
+  "chevron_right_white_24dp.svg": {
+    "mime": "image/svg+xml"
+  },
+  "expand_more_white_24dp.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email.svg": {
+    "mime": "image/svg+xml"
+  }
+}
